@@ -1,8 +1,11 @@
 ## Install
 `git clone https://github.com/nam-duong/create-redux-app-with-airbnb-linting.git`
+`yarn install`
+`yarn start`
+
 
 ## Notes
-This is a Reac-Redux boilerplate bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and Airbnb ESLint.
+This is a Reac-Redux boilerplate bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and [Airbnb ESLint](https://github.com/airbnb/javascript/tree/master/react).
 
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
