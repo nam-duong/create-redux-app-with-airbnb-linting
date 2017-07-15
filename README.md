@@ -1,6 +1,6 @@
 ## Install
-`git clone https://github.com/nam-duong/create-redux-app-with-airbnb-linting.git`
-`yarn install`
+`git clone https://github.com/nam-duong/create-redux-app-with-airbnb-linting.git`<br>
+`yarn install`<br>
 `yarn start`
 
 
